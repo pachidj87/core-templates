@@ -1,6 +1,6 @@
 <?php
 
-namespace InfyOm\CoreTemplates;
+namespace Modules\CoreTemplates;
 
 use Illuminate\Support\ServiceProvider;
 
