@@ -1,6 +1,6 @@
 {
-    "name": "infyomlabs/core-templates",
-    "description": "Core Bootstrap templates for InfyOm Laravel Generator",
+    "name": "dsielab/core-templates",
+    "description": "Core Bootstrap templates for DSIELAB Laravel Generator",
     "keywords": [
         "laravel",
         "generator",
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Mitul Golakiya",
-            "email": "me@mitul.me"
+            "name": "Arisbel Hechavarría Rojas",
+            "email": "pachidj87@gmail.com"
         }
     ],
     "require": {
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "InfyOm\\CoreTemplates\\": "src/"
+            "Modules\\CoreTemplates\\": "src/"
         }
     }
 }
